@@ -1,22 +1,7 @@
 {
-  "updated_at": "2026-06-17T15:42:17+00:00",
+  "updated_at": "2026-06-18T04:20:06+00:00",
   "count": 100,
   "data": [
-    {
-      "id": "poj95e",
-      "source": "https://www.pixiv.net/en/artworks/138911070#1",
-      "added_at": "2026-06-08T15:59:55+00:00"
-    },
-    {
-      "id": "5yrlw7",
-      "source": "https://www.pixiv.net/artworks/132529310",
-      "added_at": "2026-06-08T15:59:56+00:00"
-    },
-    {
-      "id": "21zk2y",
-      "source": "https://www.deviantart.com/wickellia/art/Yor-Cooking-1006047366",
-      "added_at": "2026-06-09T03:52:54+00:00"
-    },
     {
       "id": "21zg1g",
       "source": "https://x.com/AniFrieren/status/1997337252943343894/photo/1",
@@ -501,6 +486,21 @@
       "id": "k8zvg6",
       "source": "https://x.com/L0WR15E/status/2012495122311651651",
       "added_at": "2026-06-17T15:42:16+00:00"
+    },
+    {
+      "id": "8gekz2",
+      "source": "https://x.com/Yan_Kodiac/status/1983670953004650588",
+      "added_at": "2026-06-18T04:19:53+00:00"
+    },
+    {
+      "id": "8gk3ry",
+      "source": "https://x.com/sea_Pall/status/1865565985102496021",
+      "added_at": "2026-06-18T04:19:54+00:00"
+    },
+    {
+      "id": "ogyljl",
+      "source": "https://twitter.com/Ganet_p/status/2009561020751385086",
+      "added_at": "2026-06-18T04:19:55+00:00"
     }
   ]
 }
