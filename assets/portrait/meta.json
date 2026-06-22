@@ -1,17 +1,7 @@
 {
-  "updated_at": "2026-06-21T14:18:52+00:00",
+  "updated_at": "2026-06-22T04:49:08+00:00",
   "count": 100,
   "data": [
-    {
-      "id": "lyk3wy",
-      "source": "https://www.pixiv.net/users/55099385",
-      "added_at": "2026-06-10T04:04:26+00:00"
-    },
-    {
-      "id": "w56337",
-      "source": "https://www.weibo.com/2681019612/OwLNw4rHS",
-      "added_at": "2026-06-10T04:04:27+00:00"
-    },
     {
       "id": "5yk6r9",
       "source": "https://x.com/GlitchAce/status/2032500279975834113",
@@ -501,6 +491,16 @@
       "id": "5yrlw7",
       "source": "https://www.pixiv.net/artworks/132529310",
       "added_at": "2026-06-21T14:18:50+00:00"
+    },
+    {
+      "id": "6lm2x6",
+      "source": "https://www.pixiv.net/en/artworks/139532936",
+      "added_at": "2026-06-22T04:49:06+00:00"
+    },
+    {
+      "id": "xe7gev",
+      "source": "https://www.pixiv.net/artworks/141536677",
+      "added_at": "2026-06-22T04:49:07+00:00"
     }
   ]
 }
