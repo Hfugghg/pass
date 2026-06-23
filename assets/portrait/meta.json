@@ -1,12 +1,7 @@
 {
-  "updated_at": "2026-06-22T17:03:11+00:00",
+  "updated_at": "2026-06-23T03:53:47+00:00",
   "count": 100,
   "data": [
-    {
-      "id": "rqy78w",
-      "source": "https://www.pixiv.net/artworks/116294852",
-      "added_at": "2026-06-10T15:43:47+00:00"
-    },
     {
       "id": "21d6zx",
       "source": "https://x.com/elfe_art/status/2027844957076148269",
@@ -501,6 +496,11 @@
       "id": "jew5jq",
       "source": "https://x.com/GGOc_ill/status/2004484893242507288",
       "added_at": "2026-06-22T17:03:10+00:00"
+    },
+    {
+      "id": "zpzjyg",
+      "source": "https://www.pixiv.net/en/artworks/139614813",
+      "added_at": "2026-06-23T03:53:44+00:00"
     }
   ]
 }
