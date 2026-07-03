@@ -1,12 +1,7 @@
 {
-  "updated_at": "2026-07-03T03:36:05+00:00",
+  "updated_at": "2026-07-03T14:14:32+00:00",
   "count": 100,
   "data": [
-    {
-      "id": "lyz7kp",
-      "source": "https://www.cs.furyu.jp/crymachina/news/457/",
-      "added_at": "2026-06-27T13:50:11+00:00"
-    },
     {
       "id": "w51rwr",
       "source": "https://www.pixiv.net/artworks/140294677",
@@ -501,6 +496,11 @@
       "id": "mlz2q8",
       "source": "https://x.com/i/status/1784610895462900083",
       "added_at": "2026-07-03T03:36:04+00:00"
+    },
+    {
+      "id": "jevmz5",
+      "source": "https://x.com/Rafa_elaelaela/status/2065637797449682995",
+      "added_at": "2026-07-03T14:14:29+00:00"
     }
   ]
 }
