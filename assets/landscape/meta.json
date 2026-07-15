@@ -1,137 +1,7 @@
 {
-  "updated_at": "2026-07-15T02:44:22+00:00",
+  "updated_at": "2026-07-15T13:49:54+00:00",
   "count": 100,
   "data": [
-    {
-      "id": "xejrmd",
-      "source": "https://x.com/r0muru_/status/2039547407185437019",
-      "added_at": "2026-07-14T02:45:46+00:00"
-    },
-    {
-      "id": "lywojl",
-      "source": "https://x.com/i/status/2031051289971556824",
-      "added_at": "2026-07-14T02:45:47+00:00"
-    },
-    {
-      "id": "lyz1gp",
-      "source": "https://www.pixiv.net/artworks/139521816",
-      "added_at": "2026-07-14T02:45:47+00:00"
-    },
-    {
-      "id": "vpooj5",
-      "source": "https://x.com/Genshin_7/status/2022521433201443257",
-      "added_at": "2026-07-14T02:45:48+00:00"
-    },
-    {
-      "id": "9or2ow",
-      "source": "https://www.pixiv.net/en/artworks/140764905",
-      "added_at": "2026-07-14T02:45:48+00:00"
-    },
-    {
-      "id": "qrmro7",
-      "source": "https://www.bilibili.com/opus/1218581878059040785?spm_id_from=333.1387.0.0",
-      "added_at": "2026-07-14T02:45:49+00:00"
-    },
-    {
-      "id": "lyj2ky",
-      "source": "https://x.com/i/status/2073029300962644478",
-      "added_at": "2026-07-14T02:45:49+00:00"
-    },
-    {
-      "id": "1qdy6v",
-      "source": "https://www.pixiv.net/en/artworks/132225857",
-      "added_at": "2026-07-14T02:45:49+00:00"
-    },
-    {
-      "id": "d8kl5l",
-      "source": "",
-      "added_at": "2026-07-14T02:45:50+00:00"
-    },
-    {
-      "id": "qrjvrr",
-      "source": "https://www.pixiv.net/en/artworks/140209229",
-      "added_at": "2026-07-14T02:45:50+00:00"
-    },
-    {
-      "id": "3q3yrv",
-      "source": "https://www.bilibili.com/opus/1160349504548896769",
-      "added_at": "2026-07-14T02:45:51+00:00"
-    },
-    {
-      "id": "zpqm5w",
-      "source": "https://www.pixiv.net/artworks/109175873",
-      "added_at": "2026-07-14T02:45:51+00:00"
-    },
-    {
-      "id": "k82qoq",
-      "source": "https://www.artstation.com/artwork/wJyyzX",
-      "added_at": "2026-07-14T02:45:52+00:00"
-    },
-    {
-      "id": "ml2lq9",
-      "source": "",
-      "added_at": "2026-07-14T02:45:52+00:00"
-    },
-    {
-      "id": "9o8g1x",
-      "source": "https://x.com/lvl374",
-      "added_at": "2026-07-14T02:45:52+00:00"
-    },
-    {
-      "id": "5y5jz8",
-      "source": "",
-      "added_at": "2026-07-14T02:45:53+00:00"
-    },
-    {
-      "id": "je1gp5",
-      "source": "https://www.pixiv.net/en/artworks/138702115",
-      "added_at": "2026-07-14T02:45:53+00:00"
-    },
-    {
-      "id": "k8kel1",
-      "source": "",
-      "added_at": "2026-07-14T02:45:53+00:00"
-    },
-    {
-      "id": "5ykoj1",
-      "source": "",
-      "added_at": "2026-07-14T02:45:53+00:00"
-    },
-    {
-      "id": "e83j58",
-      "source": "https://x.com/sonic1nstinct/status/2014349753136390347",
-      "added_at": "2026-07-14T02:45:54+00:00"
-    },
-    {
-      "id": "yqe28d",
-      "source": "https://www.pixiv.net/en/artworks/138075280",
-      "added_at": "2026-07-14T02:45:59+00:00"
-    },
-    {
-      "id": "e83dyr",
-      "source": "https://www.pixiv.net/artworks/140818365",
-      "added_at": "2026-07-14T02:45:59+00:00"
-    },
-    {
-      "id": "zpzwxj",
-      "source": "https://www.xiaohongshu.com/explore/69690bf8000000000903a206",
-      "added_at": "2026-07-14T02:46:01+00:00"
-    },
-    {
-      "id": "lykzg2",
-      "source": "https://www.pixiv.net/artworks/91572522",
-      "added_at": "2026-07-14T02:46:03+00:00"
-    },
-    {
-      "id": "9o8oyd",
-      "source": "",
-      "added_at": "2026-07-14T02:46:06+00:00"
-    },
-    {
-      "id": "jew775",
-      "source": "https://x.com/krskakr/status/2015717130638156285",
-      "added_at": "2026-07-14T02:46:06+00:00"
-    },
     {
       "id": "9orlxx",
       "source": "https://www.artstation.com/celestra",
@@ -501,6 +371,136 @@
       "id": "d8eg6l",
       "source": "",
       "added_at": "2026-07-15T02:44:21+00:00"
+    },
+    {
+      "id": "xe761z",
+      "source": "https://www.pixiv.net/en/artworks/129037951",
+      "added_at": "2026-07-15T13:49:49+00:00"
+    },
+    {
+      "id": "1qr6mg",
+      "source": "https://www.instagram.com/saintjulianxv/p/DYClhMiERqy/?img_index=1",
+      "added_at": "2026-07-15T13:49:50+00:00"
+    },
+    {
+      "id": "powyee",
+      "source": "https://x.com/yao_wang29/status/1871772923377398029",
+      "added_at": "2026-07-15T13:49:50+00:00"
+    },
+    {
+      "id": "xe762v",
+      "source": "https://backiee.com/wallpaper/dark-elegance-in-anime-monochrome-art/311581",
+      "added_at": "2026-07-15T13:49:50+00:00"
+    },
+    {
+      "id": "vpywgm",
+      "source": "",
+      "added_at": "2026-07-15T13:49:50+00:00"
+    },
+    {
+      "id": "3q5953",
+      "source": "https://x.com/i/status/2037139711559688621",
+      "added_at": "2026-07-15T13:49:50+00:00"
+    },
+    {
+      "id": "yqg2og",
+      "source": "https://x.com/dattsunosuke/status/1993276845169823943",
+      "added_at": "2026-07-15T13:49:51+00:00"
+    },
+    {
+      "id": "zpq5qv",
+      "source": "https://www.pixiv.net/en/artworks/141494170",
+      "added_at": "2026-07-15T13:49:51+00:00"
+    },
+    {
+      "id": "9o22j8",
+      "source": "https://www.pixiv.net/en/artworks/133665557",
+      "added_at": "2026-07-15T13:49:51+00:00"
+    },
+    {
+      "id": "2131x9",
+      "source": "https://www.pixiv.net/en/artworks/117880745",
+      "added_at": "2026-07-15T13:49:51+00:00"
+    },
+    {
+      "id": "qrjop5",
+      "source": "https://www.pixiv.net/users/17719157",
+      "added_at": "2026-07-15T13:49:52+00:00"
+    },
+    {
+      "id": "rqjvl1",
+      "source": "https://x.com/ZZZ_EN/status/2061304229336109500",
+      "added_at": "2026-07-15T13:49:52+00:00"
+    },
+    {
+      "id": "qrl855",
+      "source": "",
+      "added_at": "2026-07-15T13:49:52+00:00"
+    },
+    {
+      "id": "9oz7o8",
+      "source": "https://www.pixiv.net/en/artworks/140183601",
+      "added_at": "2026-07-15T13:49:52+00:00"
+    },
+    {
+      "id": "8gkx2k",
+      "source": "",
+      "added_at": "2026-07-15T13:49:52+00:00"
+    },
+    {
+      "id": "vpye85",
+      "source": "https://www.pixiv.net/en/users/58914348",
+      "added_at": "2026-07-15T13:49:52+00:00"
+    },
+    {
+      "id": "213op6",
+      "source": "",
+      "added_at": "2026-07-15T13:49:53+00:00"
+    },
+    {
+      "id": "k8kgz1",
+      "source": "https://www.pixiv.net/en/artworks/59919008#1",
+      "added_at": "2026-07-15T13:49:53+00:00"
+    },
+    {
+      "id": "6l2qdw",
+      "source": "https://www.pixiv.net/en/artworks/133979063",
+      "added_at": "2026-07-15T13:49:53+00:00"
+    },
+    {
+      "id": "ly237p",
+      "source": "https://www.pixiv.net/en/artworks/144417112",
+      "added_at": "2026-07-15T13:49:53+00:00"
+    },
+    {
+      "id": "w51pyp",
+      "source": "https://www.bilibili.com/opus/1165774056863039507",
+      "added_at": "2026-07-15T13:49:53+00:00"
+    },
+    {
+      "id": "e89e78",
+      "source": "https://x.com/notyourclaude/status/1953436749897646416",
+      "added_at": "2026-07-15T13:49:54+00:00"
+    },
+    {
+      "id": "rqjx9m",
+      "source": "https://www.pixiv.net/artworks/108293887",
+      "added_at": "2026-07-15T13:49:54+00:00"
+    },
+    {
+      "id": "w5mpd6",
+      "source": "https://x.com/jonmaomao",
+      "added_at": "2026-07-15T13:49:54+00:00"
+    },
+    {
+      "id": "gw9o8d",
+      "source": "",
+      "added_at": "2026-07-15T13:49:54+00:00"
+    },
+    {
+      "id": "8g9kxk",
+      "source": "https://x.com/DanKantori/status/2071231086185591071",
+      "added_at": "2026-07-15T13:49:54+00:00"
     }
   ]
 }
