@@ -1,47 +1,7 @@
 {
-  "updated_at": "2026-08-01T13:28:25+00:00",
+  "updated_at": "2026-08-02T03:18:24+00:00",
   "count": 100,
   "data": [
-    {
-      "id": "powqrj",
-      "source": "https://moyashi-japan.com/fr-fr/collections/anime-art-book",
-      "added_at": "2026-07-22T14:03:11+00:00"
-    },
-    {
-      "id": "powp59",
-      "source": "https://www.pixiv.net/artworks/130296014",
-      "added_at": "2026-07-22T14:03:13+00:00"
-    },
-    {
-      "id": "d8ompo",
-      "source": "https://www.bilibili.com/opus/1220424900044390489",
-      "added_at": "2026-07-22T14:03:13+00:00"
-    },
-    {
-      "id": "ly2g2q",
-      "source": "",
-      "added_at": "2026-07-23T03:15:23+00:00"
-    },
-    {
-      "id": "w5d89r",
-      "source": "https://www.deviantart.com/mostlybluewyatt/art/Boa-Hancock-1073100195",
-      "added_at": "2026-07-23T14:08:51+00:00"
-    },
-    {
-      "id": "1qr6x3",
-      "source": "https://www.pixiv.net/artworks/122453108",
-      "added_at": "2026-07-24T02:54:23+00:00"
-    },
-    {
-      "id": "xej5jo",
-      "source": "https://www.pixiv.net/users/8807461",
-      "added_at": "2026-07-24T02:54:24+00:00"
-    },
-    {
-      "id": "xep223",
-      "source": "https://www.pixiv.net/artworks/145100631",
-      "added_at": "2026-07-24T02:54:27+00:00"
-    },
     {
       "id": "219m36",
       "source": "https://x.com/aoo_ni/status/2041803315634483610",
@@ -501,6 +461,46 @@
       "id": "3qrxgy",
       "source": "https://boosty.to/iskanderednaksi",
       "added_at": "2026-08-01T13:28:24+00:00"
+    },
+    {
+      "id": "3qrj7v",
+      "source": "",
+      "added_at": "2026-08-02T03:18:18+00:00"
+    },
+    {
+      "id": "yqgrox",
+      "source": "https://x.com/_meisaki_/status/2044892526973227320",
+      "added_at": "2026-08-02T03:18:20+00:00"
+    },
+    {
+      "id": "9o8q7k",
+      "source": "https://x.com/Tencarcyan/status/1991289635776200948",
+      "added_at": "2026-08-02T03:18:21+00:00"
+    },
+    {
+      "id": "mlw968",
+      "source": "https://www.pixiv.net/en/artworks/142857799",
+      "added_at": "2026-08-02T03:18:21+00:00"
+    },
+    {
+      "id": "e8w5wo",
+      "source": "https://x.com/i/status/2063652427455242453",
+      "added_at": "2026-08-02T03:18:21+00:00"
+    },
+    {
+      "id": "jev6ey",
+      "source": "https://x.com/marumoru_ka/status/2066080791822729502",
+      "added_at": "2026-08-02T03:18:22+00:00"
+    },
+    {
+      "id": "xe7gev",
+      "source": "https://www.pixiv.net/artworks/141536677",
+      "added_at": "2026-08-02T03:18:23+00:00"
+    },
+    {
+      "id": "lywj3l",
+      "source": "https://www.weibo.com/6033575010/Qg7WlBEao",
+      "added_at": "2026-08-02T03:18:23+00:00"
     }
   ]
 }
