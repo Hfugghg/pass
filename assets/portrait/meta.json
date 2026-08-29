@@ -1,32 +1,7 @@
 {
-  "updated_at": "2026-08-29T06:20:59+00:00",
+  "updated_at": "2026-08-29T16:27:07+00:00",
   "count": 100,
   "data": [
-    {
-      "id": "6l5787",
-      "source": "https://www.pixiv.net/artworks/141873577",
-      "added_at": "2026-08-22T12:44:41+00:00"
-    },
-    {
-      "id": "5y5rq5",
-      "source": "",
-      "added_at": "2026-08-22T12:44:43+00:00"
-    },
-    {
-      "id": "vpyk53",
-      "source": "https://www.pixiv.net/en/artworks/143211568",
-      "added_at": "2026-08-22T12:44:44+00:00"
-    },
-    {
-      "id": "je1oj5",
-      "source": "https://www.pixiv.net/en/artworks/138592469",
-      "added_at": "2026-08-22T12:44:44+00:00"
-    },
-    {
-      "id": "8g98xo",
-      "source": "https://boosty.to/iskanderednaksi",
-      "added_at": "2026-08-23T01:36:24+00:00"
-    },
     {
       "id": "mlw968",
       "source": "https://www.pixiv.net/en/artworks/142857799",
@@ -501,6 +476,31 @@
       "id": "3qwy7d",
       "source": "https://www.pixiv.net/en/artworks/141959810",
       "added_at": "2026-08-29T06:20:58+00:00"
+    },
+    {
+      "id": "rqj75j",
+      "source": "https://twitter.com/Lhata4564/status/1797612321088651278",
+      "added_at": "2026-08-29T16:26:58+00:00"
+    },
+    {
+      "id": "3qwdjv",
+      "source": "https://x.com/pong__o0/status/2031007119156396510",
+      "added_at": "2026-08-29T16:26:59+00:00"
+    },
+    {
+      "id": "21d6zx",
+      "source": "https://x.com/elfe_art/status/2027844957076148269",
+      "added_at": "2026-08-29T16:27:00+00:00"
+    },
+    {
+      "id": "gwqvpe",
+      "source": "https://www.pixiv.net/en/artworks/141387842",
+      "added_at": "2026-08-29T16:27:01+00:00"
+    },
+    {
+      "id": "vpd36p",
+      "source": "https://www.pixiv.net/en/artworks/146417882",
+      "added_at": "2026-08-29T16:27:01+00:00"
     }
   ]
 }
