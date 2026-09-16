@@ -1,12 +1,7 @@
 {
-  "updated_at": "2026-09-15T16:35:02+00:00",
+  "updated_at": "2026-09-16T04:01:25+00:00",
   "count": 100,
   "data": [
-    {
-      "id": "rqj75j",
-      "source": "https://twitter.com/Lhata4564/status/1797612321088651278",
-      "added_at": "2026-09-08T03:46:04+00:00"
-    },
     {
       "id": "3qwdjv",
       "source": "https://x.com/pong__o0/status/2031007119156396510",
@@ -501,6 +496,11 @@
       "id": "k8lmgd",
       "source": "https://x.com/elfe_art",
       "added_at": "2026-09-15T16:35:02+00:00"
+    },
+    {
+      "id": "lyd8zy",
+      "source": "https://www.pixiv.net/en/artworks/78556824",
+      "added_at": "2026-09-16T04:01:18+00:00"
     }
   ]
 }
